@@ -1,7 +1,7 @@
 import random
 
 COUNTER_ITERATIONS = random.randint(5, 10)
-N_OF_THREADS = random.randint(1, 5)
+N_OF_THREADS = random.randint(2, 5)
 
 counter = 0
 
